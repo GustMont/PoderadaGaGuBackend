@@ -1,0 +1,12 @@
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\bin\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.deps.json
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\bin\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.dll
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\bin\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.pdb
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.csproj.AssemblyReference.cache
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.AssemblyInfoInputs.cache
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.AssemblyInfo.cs
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.dll
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\refint\GrupoGaGu.PonderadaBackend.Repository.dll
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\GrupoGaGu.PonderadaBackend.Repository.pdb
+C:\Users\Inteli\source\repos\GrupoGaGu.PonderadaBackend.WebApi\GrupoGaGu.PonderadaBackend.Repository\obj\Debug\net8.0\ref\GrupoGaGu.PonderadaBackend.Repository.dll
