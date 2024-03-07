@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\GrupoGaGu.PonderadaBackend.WebApi.props" />
-</Project>
